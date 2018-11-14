@@ -1,3 +1,5 @@
+This project was made following the [Tutorial](https://reactjs.org/tutorial/tutorial.html)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
