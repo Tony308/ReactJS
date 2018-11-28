@@ -1,5 +1,5 @@
 {
-  "name": "myapp",
+  "name": "tic-tac-toe",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,7 +12,7 @@
     "npm": "^6.4.1",
     "react": "^16.6.1",
     "react-dom": "^16.6.1",
-    "react-scripts": "2.1.1"
+    "react-scripts": "^2.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -31,11 +31,14 @@
     "not op_mini all"
   ],
   "devDependencies": {
+    "chai": "^4.2.0",
     "enzyme": "^3.7.0",
+    "enzyme-adapter-react-16": "^1.7.0",
     "expect": "^23.6.0",
     "jsdom": "^13.0.0",
     "mocha": "^5.2.0",
     "react-addons-test-utils": "^15.6.2",
-    "react-jsdom": "^3.0.0"
+    "react-jsdom": "^3.0.0",
+    "sinon": "^7.1.1"
   }
 }
